@@ -18,6 +18,7 @@ auth.createUserWithEmailAndPassword(email,password).then(cred=>{
     M.Modal.getInstance(modal).close();
     signupForm.reset();
 })
-
-
 })
+
+
+
